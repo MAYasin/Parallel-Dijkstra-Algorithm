@@ -1,0 +1,2 @@
+Vertices:[A, B, C, D, E, F, G]
+Edges:[A<-1->E, A<-2->C, B<-4->D, C<-1->D, D<-1->F, A<-3->F, F<-1->E, F<-2->G]
